@@ -1,1 +1,1 @@
-# bijoy
+print('Hello, world!')
